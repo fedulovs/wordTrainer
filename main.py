@@ -1,9 +1,7 @@
 import random
-
-import data
-
 import sys
 
+import data
 from PyQt5 import QtWidgets
 from PyQt5.QtWidgets import QApplication, QMainWindow
 from PyQt5.uic import loadUi
@@ -34,11 +32,6 @@ class MainWindow(QMainWindow):
     def change_number(self):
         word = random.choice(list)
         self.number.setText(word)
-
-
-
-
-
 
 
 app = QApplication(sys.argv)
