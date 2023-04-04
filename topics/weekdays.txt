@@ -1,0 +1,7 @@
+Monday - Maanantai
+Tuesday - Tiistai
+Wednesday - Keskiviikko
+Thursday - Torstai
+Friday - Perjantai
+Saturday - Lauantai
+Sunday - Sunnuntai

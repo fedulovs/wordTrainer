@@ -1,0 +1,13 @@
+Potato - peruna
+Bread - leipä
+Poultry - Siipikarja
+Beef - Naudanliha
+Pork - Sianliha
+Milk - Maito
+Porridge - Puuro
+Eggs - Munat
+Salt - Suola
+Sugar - Sokeri
+Pasta - Pasta
+Coffee - Kahvi
+Tea - Teetä

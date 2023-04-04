@@ -1,0 +1,13 @@
+White - Valkoinen
+Black - Musta
+Red - Punainen
+Blue - Sininen
+Yellow - Keltainen
+Green - Vihreä
+Purple - Violetti
+Brown - Ruskea
+Grey - Harmaa
+Orange - Oranssi
+Silver - Hopea or Hopeinen
+Gold - Kulta or Kultainen
+Multicolored - Monivärinen

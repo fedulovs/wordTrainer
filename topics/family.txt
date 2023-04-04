@@ -1,0 +1,28 @@
+wife - vaimo
+husband - mies
+parents - vanhemmat
+brother - veli
+aunt - täti
+uncle - setä
+Family tree - Sukupuu
+fathers brother - isän veli
+mothers brother - äidin veli
+sister - sisko
+daughter - tytär
+grandson - pojanpoika
+relative - suhteellinen
+person/soul - henkilö
+widow - leski
+dead - kuollut
+son - poika
+divorsed - eronnut
+cousin - serkku
+wife in civil law - avovaimo
+pregnant - raskaana
+
+
+
+
+
+
+

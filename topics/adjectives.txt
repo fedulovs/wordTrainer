@@ -1,0 +1,51 @@
+New - Uusi
+Young - nuori
+Old - Vanha
+Happy - Illoinen
+Sad - Surullinen
+Beautiful - Kaunis
+ugly - Ruma
+Fat - Lihava
+Slim - Laiha
+Wide (thing) - paksu
+Slim (thing) - ohut
+Open - Auki
+Closed - Kiinni
+Full - täysi
+Empty - tyhja
+Expensive - kallis
+Cheap - halpa
+Difficult - vaikea
+Easy - helppo
+Rich - rikas
+Poor - köyha
+Hot - kuuma
+Cold - kulma
+Dry - kuiva
+Wet - märkä
+Bright - valoisa
+Dark - piimeä
+Enraged - vihainen
+Calm - rauhalinen
+Messy - sotkuinen
+Tidy - siisti
+Wide - leveä
+Narrow - kapea
+Soft - pehmeä
+Hard - kova
+Lightweited - raskas
+Hardweighted - kevyt
+Hight person - pitkä
+Short person - lyhyt
+Sharp - terävä
+Blunt - tylsa
+Slow - hidas
+Fast - nopea
+High - korkea
+Small - matala
+Sour - hapan
+Sweet - makea
+Cheerfull - hauska
+Sad - tylsä
+Clever - vilsas
+Stupid - tyhmä

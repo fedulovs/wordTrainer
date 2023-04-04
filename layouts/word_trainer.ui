@@ -159,7 +159,7 @@
                         </layout>
                     </widget>
                 </item>
-                <item>
+                <item alignment="Qt::AlignHCenter">
                     <widget class="QFrame" name="frame">
                         <property name="sizePolicy">
                             <sizepolicy hsizetype="Preferred" vsizetype="Maximum">
@@ -186,7 +186,7 @@
                             <enum>QFrame::Raised</enum>
                         </property>
                         <layout class="QVBoxLayout" name="verticalLayout_2">
-                            <item alignment="Qt::AlignHCenter">
+                            <item>
                                 <widget class="QPushButton" name="generate">
                                     <property name="sizePolicy">
                                         <sizepolicy hsizetype="Minimum" vsizetype="Minimum">
@@ -217,7 +217,42 @@
                                         </string>
                                     </property>
                                     <property name="text">
-                                        <string>Generate</string>
+                                        <string>Next</string>
+                                    </property>
+                                </widget>
+                            </item>
+                            <item>
+                                <widget class="QPushButton" name="show_answer_btn">
+                                    <property name="sizePolicy">
+                                        <sizepolicy hsizetype="Minimum" vsizetype="Minimum">
+                                            <horstretch>0</horstretch>
+                                            <verstretch>0</verstretch>
+                                        </sizepolicy>
+                                    </property>
+                                    <property name="minimumSize">
+                                        <size>
+                                            <width>800</width>
+                                            <height>30</height>
+                                        </size>
+                                    </property>
+                                    <property name="maximumSize">
+                                        <size>
+                                            <width>800</width>
+                                            <height>50</height>
+                                        </size>
+                                    </property>
+                                    <property name="font">
+                                        <font>
+                                            <pointsize>14</pointsize>
+                                        </font>
+                                    </property>
+                                    <property name="styleSheet">
+                                        <string notr="true">background-color: #CAD3F4; border-radius : 20; border: none;
+                                            color: #418089
+                                        </string>
+                                    </property>
+                                    <property name="text">
+                                        <string>Show answer</string>
                                     </property>
                                 </widget>
                             </item>
