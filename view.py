@@ -87,6 +87,8 @@ if __name__ == "__main__":
     widget.setFixedWidth(1200)
     widget.show()
 
+    widget.setWindowTitle("Word Trainer")
+
     try:
         sys.exit(app.exec_())
     except:
