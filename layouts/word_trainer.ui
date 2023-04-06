@@ -20,7 +20,8 @@
             <string>MainWindow</string>
         </property>
         <property name="styleSheet">
-            <string notr="true">background-color: #A8E6F1
+            <string notr="true">background-color: #DDDBF1
+
             </string>
         </property>
         <widget class="QWidget" name="centralwidget">
