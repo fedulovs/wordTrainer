@@ -24,6 +24,8 @@ class MainWindow(QDialog):
         self.food.clicked.connect(lambda: self.get_words('topics/food.txt'))
         self.family.clicked.connect(lambda: self.get_words('topics/family.txt'))
         self.adjectives.clicked.connect(lambda: self.get_words('topics/adjectives.txt'))
+        self.questions.clicked.connect(lambda: self.get_words('topics/questions.txt'))
+        self.verbs.clicked.connect(lambda: self.get_words('topics/verbs.txt'))
 
     def get_words(self, file):
         global word_set
@@ -47,11 +49,13 @@ class TrainerWindow(QMainWindow):
         super(TrainerWindow, self).__init__()
         loadUi("layouts/word_trainer.ui", self)
 
+        self.word_label.setText('')
         self.generate.clicked.connect(lambda: self.change_word(word_set))
         self.show_answer_btn.clicked.connect(lambda: self.show_answer())
 
         self.back_button.setIcon(QIcon('icons/arrow-left.svg'))
         self.back_button.clicked.connect(lambda: self.go_back())
+        self.change_word(word_set)
 
     def change_word(self, topic):
         global word, answer
