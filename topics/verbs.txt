@@ -1,0 +1,66 @@
+write - kirjoittaa
+help - auttaa
+wait - odottaa
+to move from appartment - muuttaa
+play on musical instrument - soittaa
+ski - hiihtää
+draw - piirtää
+give - antaa
+take - ottaa
+scream - huutaa
+ask - pyytää
+turn - kääntää
+fly - lentää
+whistle - viheltää
+dare - uskaltaa
+sleep - nukkua
+read - lukea
+dress - pukea
+bake - leipoa
+bathe - kylpea
+crawl - hiipia
+feed - syöttää
+wake - herättää
+row - soutaa
+fish - onkia
+change - vaihtaa
+rain (fall) - sataa
+escort - assttaa
+shoot - ampua
+kill - tappaa
+care - hoitaa
+play - lekkia
+speak - puhua
+say - sanoa
+stand - seisoa
+sit - istua
+dance - tanssia
+laugh - nauraa
+cry - itkeä
+sing - laulaa
+buy - ostaa
+pay - maksaa
+drive - ajaa
+count - laskea
+fish - kalastaa
+pick mushrooms - sienestää
+hunt - metsästää
+love - rakastaa
+live - asua
+watch - katsoa
+fry - paistaa
+undress - riisua
+travel - matkustaa
+steal - varastaa
+grow - kasvaa
+take sauna - saunoa
+ride - ratsastaa
+envy - kadehtia
+show - näytää
+accuire - hankkia
+learn - oppia
+share - jakaa
+dive - sukeltaa
+remember - muistaa
+concern - koskea
+understand - ummärtää
