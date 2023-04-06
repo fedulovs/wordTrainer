@@ -8,4 +8,4 @@
 - Format 
 ```word - transtlation```
 - Make sure not to leave any whitespaces after
-- New words might be accessed by clicking on **Wy words** button
+- New words might be accessed by clicking on **My words** button
