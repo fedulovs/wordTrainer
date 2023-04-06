@@ -1,0 +1,5 @@
+word 1 - translation 1
+word 2 - translation 2
+word 3 - translation 3
+word 4 - translation 4
+word 5 - translation 5

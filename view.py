@@ -26,6 +26,7 @@ class MainWindow(QDialog):
         self.adjectives.clicked.connect(lambda: self.get_words('topics/adjectives.txt'))
         self.questions.clicked.connect(lambda: self.get_words('topics/questions.txt'))
         self.verbs.clicked.connect(lambda: self.get_words('topics/verbs.txt'))
+        self.custom.clicked.connect(lambda: self.get_words('topics/my_words.txt'))
 
     def get_words(self, file):
         global word_set
