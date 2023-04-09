@@ -9,3 +9,5 @@
 ```word - transtlation```
 - Make sure not to leave any whitespaces after
 - New words might be accessed by clicking on **My words** button
+
+![Main menu](/../screenshots/screenshots/main_menu.png?raw=true "Optional Title")
